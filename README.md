@@ -1,2 +1,5 @@
 # cloud-native-nordics.github.io
-Our webpage
+
+Our work-in-progress webpage
+
+Check out the [companies](/companies) page!

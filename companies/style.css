@@ -1,0 +1,46 @@
+.holder {
+    padding: 5px;
+    margin: 15px!important;
+    height: 150px!important;
+    width: 150px!important;
+    background-color: white;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    height: 140px!important;
+    width: 140px!important;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo p {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin: 45px 0px;
+}
+
+h2 {
+    margin: 40px 0px;
+}
+
+.container {
+    max-width: 1600px;
+}
+
+.darkLogo {
+    filter: brightness(0.1);
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://raw.githubusercontent.com/cloud-native-nordics/artwork/master/slide-background/helsinki.png);
+    background-position: center top;
+    background-size: cover;
+    color: white;
+}

@@ -1,15 +1,15 @@
 .holder {
     padding: 5px;
-    margin: 15px!important;
-    height: 150px!important;
-    width: 150px!important;
+    margin: 10px!important;
+    height: 130px!important;
+    width: 130px!important;
     background-color: white;
     box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
 }
 
 .logo {
-    height: 140px!important;
-    width: 140px!important;
+    height: 120px!important;
+    width: 120px!important;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
